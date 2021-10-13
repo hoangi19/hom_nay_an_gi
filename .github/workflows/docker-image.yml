@@ -16,4 +16,5 @@ jobs:
     - uses: actions/checkout@master
     - name: Build the Docker image
       run: |
+        docker-compose down
         docker-compose up
