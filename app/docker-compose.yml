@@ -1,0 +1,7 @@
+version: '3'
+services:
+  app:
+    build: .
+    image: hom_nay_an_gi
+    ports:
+      - 3000:3000

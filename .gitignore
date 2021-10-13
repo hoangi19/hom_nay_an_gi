@@ -1,3 +1,5 @@
+DB/mongoconfig/
+DB/mongodb/
 # Logs
 logs
 *.log
