@@ -2,6 +2,8 @@ DB/mongoconfig/
 DB/mongodb/
 _actions/
 _PipelineMapping/
+_temp/
+_tool/
 # Logs
 logs
 *.log
